@@ -30,16 +30,3 @@ The system consists of three core modules:
 
 - Detected `happy (80%)` → Caption: `超开心`
 - Detected `surprise (60%) + fear (30%)` → Caption: `吓一跳`
-
-## Code & Demo
-
-[https://github.com/1234567890244/ECE4513_Final_Project](https://github.com/1234567890244/ECE4513_Final_Project)
-
-## Authors
-
-- **Ruiqi Zhang** – Core algorithm design, system integration, API connectivity
-- **Yutian Dai** – Dataset construction, experimentation, statistical analysis, report writing
-
-## License
-
-Please refer to the repository for license information.
